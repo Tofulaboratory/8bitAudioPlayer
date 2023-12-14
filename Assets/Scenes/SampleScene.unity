@@ -153,7 +153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56d856e6a5e0b86478d443ea4c48e95d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BGMName: You_and_Me_2
+  BGMName: hogehoge
   IsPlaying: 1
   waveType: 1
   Threshold: 0.02
